@@ -1,4 +1,4 @@
 # bootmania
 bootmania binary archive
 
-<https://beanzarch.github.io/bootmania/>
+[BootMania WEB PAGE](https://beanzarch.github.io/bootmania/)
